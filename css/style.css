@@ -115,6 +115,11 @@ form {
   color: #1c4780;
 }
 
+.form-username input::placeholder,
+.form-password input::placeholder {
+  color: #1c4780;
+}
+
 .icon {
   z-index: 1;
   position: relative;
